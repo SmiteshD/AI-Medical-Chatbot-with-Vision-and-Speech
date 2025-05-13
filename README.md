@@ -60,7 +60,7 @@ OpenAI Whisper & LLaMA-4-Scout**, **ElevenLabs TTS**, and deployed with **Gradio
 
 ## Installing FFmpeg
 
-1. Visit the official FFmpeg download page: [An Internal Link](https://ffmpeg.org/download.html)
+1. Visit the official FFmpeg download page: [FFmpeg Downloads](https://ffmpeg.org/download.html)
 2. Navigate to the Windows builds section and download the latest static build.
 3. Extract and Set Up FFmpeg:
    - Extract the downloaded ZIP file to a folder (e.g., C:\ffmpeg).
