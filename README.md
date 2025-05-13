@@ -5,7 +5,9 @@ OpenAI Whisper & LLaMA-4-Scout**, **ElevenLabs TTS**, and deployed with **Gradio
 
 ## 🖼️ Demo
 
-> *(Add a screenshot of the Gradio interface if possible here)*
+![Screenshot 2025-05-12 200502](https://github.com/user-attachments/assets/fdddf14b-ac69-4520-ba04-f9422807ce1e)
+
+
 
 ## ✨ Features
 
